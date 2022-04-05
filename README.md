@@ -1,6 +1,6 @@
 ## Larisse Campos
 
- <div style="display: inline_block">
+ <div style="display: inline_flex">
   <img align="right" alt="" width="250" height="400" src="https://o.remove.bg/downloads/9c7d2bce-5acf-4b7f-adac-61fed697b809/Perfilgithub.png__1_-removebg-preview.png" />
   </div>
 
