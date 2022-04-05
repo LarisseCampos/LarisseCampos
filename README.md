@@ -1,7 +1,7 @@
 ## Larisse Campos
 
  <div style="display: inline_block">
-  <img align="right" alt="" height="400em" src="https://o.remove.bg/downloads/9c7d2bce-5acf-4b7f-adac-61fed697b809/Perfilgithub.png__1_-removebg-preview.png" />
+  <img align="right" alt="" height="200em" src="https://o.remove.bg/downloads/9c7d2bce-5acf-4b7f-adac-61fed697b809/Perfilgithub.png__1_-removebg-preview.png" />
   </div>
 
 <br>
