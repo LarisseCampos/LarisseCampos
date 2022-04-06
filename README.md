@@ -4,13 +4,7 @@
   <img align="right" alt="" height="200em" src="https://share-cdn.picrew.me/shareImg/org/202204/112842_TjFZt2e7.png" />
   </div>
 
-<br>
-<div style="display: flex">
 
-  <a href="https://instagram.com/larisse_ca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@larissecampos_@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larisse-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 
 ### Hello, Devs!
@@ -18,7 +12,13 @@
 Tenho 25 anos, sou iniciante no mundo de desenvolvimento Front-end. Sempre fui apaixonada pela area e gostaria de aprender o máximo possível,pois a cada novo erro e dificuldade superadas no processo, mais eu me encanto com tudo isso!💕
  
  
- 
+ <br>
+<div style="display: flex">
+
+  <a href="https://instagram.com/larisse_ca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@larissecampos_@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larisse-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
  
    
 <br>No momento estou aprendendo: 
