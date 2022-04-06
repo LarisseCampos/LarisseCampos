@@ -11,7 +11,7 @@
 
 Tenho 25 anos, sou iniciante no mundo de desenvolvimento Front-end. Sempre fui apaixonada pela area e gostaria de aprender o máximo possível,pois a cada novo erro e dificuldade superadas no processo, mais eu me encanto com tudo isso!💕
  
- 
+ <br>
  <br>
 <div style="display: flex">
 <span>
