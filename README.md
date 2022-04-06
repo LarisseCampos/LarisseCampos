@@ -1,7 +1,7 @@
 ## Larisse Campos
 
  <div style="display: inline_block">
-  <img align="right" alt="" height="200em" src="https://share-cdn.picrew.me/shareImg/org/202204/112842_TjFZt2e7.png" />
+  <img align="right" alt="" height="180em" src="https://share-cdn.picrew.me/shareImg/org/202204/112842_TjFZt2e7.png" />
   </div>
 
 
