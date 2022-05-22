@@ -9,7 +9,7 @@
 
 ### Hello, Devs!
 
-Tenho 26 anos, sou iniciante no mundo de desenvolvimento Front-end. Sempre fui apaixonada pela area e gostaria de aprender o máximo possível,pois a cada novo erro e dificuldade superadas no processo, mais eu me encanto com tudo isso!💕
+Tenho 26 anos, sou iniciante no mundo de desenvolvimento web - backend. Sempre fui apaixonada pela area e gostaria de aprender o máximo possível,pois a cada novo erro e dificuldade superadas no processo, mais eu me encanto com tudo isso!💕
  
  <br>
  <br>
